@@ -6,6 +6,6 @@ class Solution:
 
 
 def test_2469():
-    test = Solution()
-    assert test.convertTemperature(36.50) == [309.65000,97.70000]
-    assert test.convertTemperature(122.11) == [395.26000,251.79800]
+    solution = Solution()
+    assert solution.convertTemperature(36.50) == [309.65000,97.70000]
+    assert solution.convertTemperature(122.11) == [395.26000,251.79800]
