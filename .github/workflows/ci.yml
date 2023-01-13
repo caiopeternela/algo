@@ -15,7 +15,7 @@ jobs:
           pip install ruff pytest
       - name: Lint with ruff
         run: |
-          ruff .
+          ruff --line-length 140 .
       - name: Test with pytest
         run: |
           pytest
