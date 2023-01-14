@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/shuffle-the-array/
+
+
 class Solution:
     def shuffle(self, nums: list[int], n: int) -> list[int]:
         shuffled_list = []

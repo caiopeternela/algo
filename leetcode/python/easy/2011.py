@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+
+
 class Solution:
     def finalValueAfterOperations(self, operations: list[str]) -> int:
         x = 0

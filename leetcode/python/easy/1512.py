@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/number-of-good-pairs/
+
+
 from itertools import combinations
 
 class Solution:
