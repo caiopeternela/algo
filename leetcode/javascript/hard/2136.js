@@ -1,4 +1,4 @@
-/* https://leetcode.com/problems/reducing-dishes/ */
+/* https://leetcode.com/problems/earliest-possible-day-of-full-bloom/ */
 
 
 /**
