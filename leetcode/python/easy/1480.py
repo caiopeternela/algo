@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/running-sum-of-1d-array/
-
+# https://leetcode.com/problems/running-sum-of-1d-array/submissions/866930603
 
 class Solution:
     def runningSum(self, nums: list[int]) -> list[int]:

@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
-
+# https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/871906373
 
 class Solution:
     def mostWordsFound(self, sentences: list[str]) -> int:

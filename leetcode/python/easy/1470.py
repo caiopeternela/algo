@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/shuffle-the-array/
-
+# https://leetcode.com/problems/shuffle-the-array/submissions/868734738
 
 class Solution:
     def shuffle(self, nums: list[int], n: int) -> list[int]:

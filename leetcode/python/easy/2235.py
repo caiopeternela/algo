@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/add-two-integers/
-
+# https://leetcode.com/problems/add-two-integers/submissions/866319706/
 
 class Solution:
     def sum(self, num1: int, num2: int) -> int:

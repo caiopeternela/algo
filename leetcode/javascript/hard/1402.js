@@ -1,5 +1,4 @@
-/* https://leetcode.com/problems/reducing-dishes/ */
-
+/* https://leetcode.com/problems/reducing-dishes/submissions/877720782 */
 
 /**
  * @param {number[]} satisfaction

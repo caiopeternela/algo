@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/richest-customer-wealth/
+# https://leetcode.com/problems/richest-customer-wealth/submissions/871147586
 
 class Solution:
     def maximumWealth(self, accounts: list[list[int]]) -> int:

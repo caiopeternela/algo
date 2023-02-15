@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/build-array-from-permutation/
-
+# https://leetcode.com/problems/build-array-from-permutation/submissions/865993186
 
 class Solution:
     def buildArray(self, nums: list[int]) -> list[int]:

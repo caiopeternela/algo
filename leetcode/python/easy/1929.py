@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/concatenation-of-array/
-
+# https://leetcode.com/problems/concatenation-of-array/submissions/865990022
 
 class Solution:
     def getConcatenation(self, nums: list[int]) -> list[int]:

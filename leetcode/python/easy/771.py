@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/jewels-and-stones/
-
+# https://leetcode.com/problems/jewels-and-stones/submissions/870706117
 
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:

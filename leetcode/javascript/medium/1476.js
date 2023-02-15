@@ -1,5 +1,4 @@
-/* https://leetcode.com/problems/subrectangle-queries/ */
-
+/* https://leetcode.com/problems/subrectangle-queries/submissions/877563916 */
 
 /**
  * @param {number[][]} rectangle

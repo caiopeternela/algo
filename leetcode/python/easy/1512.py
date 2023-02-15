@@ -1,5 +1,4 @@
-# https://leetcode.com/problems/number-of-good-pairs/
-
+# https://leetcode.com/problems/number-of-good-pairs/submissions/870021479
 
 from itertools import combinations
 
